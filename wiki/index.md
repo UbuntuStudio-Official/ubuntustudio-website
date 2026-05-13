@@ -1,3 +1,5 @@
+Plese keep in mind that a lot of this documentation is out-of-date. If you find something that needs updating, [please help us](https://github.com/UbuntuStudio-Official/ubuntustudio-website)!
+
 # Welcome to the Ubuntu Studio developer wiki!
 
 Ubuntu Studio is an official flavor of [Ubuntu](https://ubuntu.com/) focused on creative production workflows.
