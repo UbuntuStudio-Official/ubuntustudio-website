@@ -12,7 +12,7 @@ If you came here from chat after waiting for an answer, [click here](content/com
 
 # Support
 
-[Ubuntu Studio setup guides](content/setups/index)
+[Ubuntu Studio setup guides](content/setups/)
 
 [Pro Audio Intro](content/handbook/UbuntuStudio--ProAudioIntro) - Introduction to audio on Ubuntu Studio
 
