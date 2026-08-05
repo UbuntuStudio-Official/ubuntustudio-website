@@ -14,6 +14,9 @@ This repository is the GitHub-managed content source for Ubuntu Studio website/h
    - Why it changed.
    - Any pages moved/renamed.
 
+> wordpress markdown reference
+> https://wordpress.com/support/markdown-quick-reference/
+
 ## Repository Layout
 
 - `help/index.md`: landing page for the help content hub.
