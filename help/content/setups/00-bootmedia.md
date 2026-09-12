@@ -8,7 +8,9 @@
 There is various tools can be used for creating a boot media.
 - [balenaEtcher](https://etcher.balena.io/#download-etcher)
 - [Raspberry Pi imager](https://www.raspberrypi.com/software/)
-  - (this software also available in apt repository.)
+  - this software is also available via:
+    - `sudo apt install rpi-imager` - from the apt repository.
+    - `sudo snap install rpi-imager` - a more recent version from the official Snap Store
 
 ## USB stick (multi boot with ventoy)
 1. [Download ventoy](https://sourceforge.net/projects/ventoy/files/v1.1.10/) (futher version seems to have capability issue with bios boot)

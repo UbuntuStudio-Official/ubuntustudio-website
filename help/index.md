@@ -10,9 +10,13 @@ This help area is actively maintained, but some legacy pages remain for historic
 
 If you came here from chat after waiting for an answer, [click here](content/community/UbuntuStudio--SilentIRC).
 
-# Support
+## quick start
 
 [Ubuntu Studio setup guides](content/setups/)
+
+[Ubuntu Studio tips](content/tips/)
+
+# Support
 
 [Pro Audio Intro](content/handbook/UbuntuStudio--ProAudioIntro) - Introduction to audio on Ubuntu Studio
 

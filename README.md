@@ -129,6 +129,7 @@ Expected: `remaining_files_with_2plus_triple_dash=0`
 - [ ] No file/folder slug collisions introduced.
 - [ ] No accidental standalone `---` separators introduced in body text.
 - [ ] Obsolete guidance was not reintroduced.
+- [ ] Squash commits if needed.
 
 ## Notes For Large Imports/Mirroring
 
