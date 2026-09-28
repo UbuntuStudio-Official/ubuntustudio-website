@@ -1,5 +1,5 @@
 # Audio tips
-- [back to index](../)
+- [back](../)
 
 ## the migration from jackd to pipewire
 from 23.04, Ubuntu Studio has migrated from using `jackd` to `PipeWire` for audio management. 
