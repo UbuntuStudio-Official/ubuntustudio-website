@@ -1,4 +1,5 @@
 # Installation
+- [back](../)
 ## find the boot option of your computer
 The fastest method to find the key combination of boot option is to refer the offical manual.
 

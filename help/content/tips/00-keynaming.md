@@ -1,5 +1,5 @@
 # Keyboard Naming Conventions
-- [back to index](../)
+- [back](../)
 
 ## Basic concepts
 ### modifier
